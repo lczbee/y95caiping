@@ -1,0 +1,24 @@
+
+
+1、在.\imbtools\images添加图片，支持PNG、BMP、JPG，可以添加多级文件夹
+
+默认配置如下，有需求自行修改ResBuilder.xml
+PNG转成ARGB8565透明，占用大
+BMP转RGB565非透明，占用中
+JPG保留原图非透明，占用小
+
+2、双击run.exe生成资源，自动拷贝相关资源到代码上
+
+3、生成的图片资源相关路径
+
+ID索引表： .\output\usr_pic_index.h  ..\..\lv_frame\jlres\usr_pic_index.h
+
+路径索引表：  .\output\usr_pic_index.c  ..\..\lv_frame\jlres\usr_pic_index.c
+
+资源文件 .\output\ui.res  ..\..\..\..\sdk\cpu\br28\tools\ui_resource
+
+4、LVGL代码调用
+
+ID查找：lv_img_set_src(img_obj, ID_user_pic);
+
+路径查找：lv_img_set_src(img_obj, "F:/usr_pic.bin");

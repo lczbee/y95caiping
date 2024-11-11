@@ -1,0 +1,17 @@
+﻿<?xml version="2.0" encoding="UTF-8"?>
+<Resbuilder>
+    <PageList>
+        <Page id="0">
+            <ColorList>
+                <Color id="0">000000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture format="GIF" id="1" convert_size="2006391" compress_size="2006391" ratio="100.00%">./images/temp1.gif</Picture>
+            </PictureList>
+            <CellList>
+                <Cell id="1">m26</Cell>
+                <Cell id="2">m27</Cell>
+            </CellList>
+        </Page>
+    </PageList>
+</Resbuilder>

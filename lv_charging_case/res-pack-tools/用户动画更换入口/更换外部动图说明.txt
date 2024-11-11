@@ -1,0 +1,47 @@
+###一个文件夹对应一个动图###
+
+【cfg.txt 为gif格式转换切图的配置】
+
+文件夹名 = 图片格式名
+如：PO = "png"
+不配置默认转PNG
+
+#bmp是不透明白底	（占空间中）
+#png是透明的	（占空间大）
+#jpg是不透明白底	（占空间小）
+
+【新增动图打包】
+
+（1）新建放动图的文件夹，一个文件夹对应一个动图，文件夹名字就是动图识别的名字，文件夹名只允许大写字母与数字，命名长度7个以内。
+
+（2）动图文件夹添加图片，规则如下：
+
+	GIF图：文件夹放入一张gif图，配置cfg.txt转换切图格式，不配置做默认转成PNG切图
+
+	PNG、BMP切图：文件夹里新建一个表示时间戳的文件夹，如切图间隔40ms，就新建一个40ms的文件夹，把用户切图放到xxms的文件夹里面
+	
+（3）点击run.exe生成资源
+
+
+【新增代码调用】
+
+1、download.bat添加资源文件打包列表指令pack_code.txt和-filelist指令添加XXX，例如添加7个外部动画：
+
+..\..\packres.exe -keep-suffix-case BIG1.bin BIG1.res -n res -o BIG1
+..\..\packres.exe -keep-suffix-case BIG2.bin BIG2.res -n res -o BIG2
+..\..\packres.exe -keep-suffix-case CHAR.bin CHAR.res -n res -o CHAR
+..\..\packres.exe -keep-suffix-case POOFF.bin POOFF.res -n res -o POOFF
+..\..\packres.exe -keep-suffix-case POON.bin POON.res -n res -o POON
+..\..\packres.exe -keep-suffix-case SMALL1.bin SMALL1.res -n res -o SMALL1
+..\..\packres.exe -keep-suffix-case SMALL2.bin SMALL2.res -n res -o SMALL2
+..\..\fat_comm.exe -pad-backup2 -force-align-fat -out new_res.bin -image-size 16 -filelist myFont.bin ui BIG1 BIG2 CHAR POOFF POON SMALL1 SMALL2 -remove-empty -remove-bpb -mark-bad-after 0xfe0000 -key %CHIPKEY% -address 0
+
+2、代码调用usr_update_animing(animimg0, "XXX");切换XXX外部动画
+
+【用户换图】
+
+1、cfg.txt根据需要修改
+2、换图只需要更换每个动画里面的文件夹的.gif图片或者xxms切图，文件夹有.gif以.gif为准，没有.gif以xxms文件夹里面的切图为准
+3、点击run.exe重新打包即可。
+
+

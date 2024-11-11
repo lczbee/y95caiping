@@ -1,0 +1,20 @@
+﻿<?xml version="2.0" encoding="UTF-8"?>
+<Resbuilder>
+    <PageList>
+        <Page id="0">
+            <ColorList>
+                <Color id="0">000000</Color>
+            </ColorList>
+            <PictureList>
+                <Picture format="ARGB8565" id="1">F:\lcz\caiping_test\new_sdk\sdk\lv_charging_case\res-pack-tools\helper-tools\imbtools\images\150ms\wait_0.png</Picture>
+                <Picture format="ARGB8565" id="2">F:\lcz\caiping_test\new_sdk\sdk\lv_charging_case\res-pack-tools\helper-tools\imbtools\images\150ms\wait_1.png</Picture>
+                <Picture format="ARGB8565" id="3">F:\lcz\caiping_test\new_sdk\sdk\lv_charging_case\res-pack-tools\helper-tools\imbtools\images\150ms\wait_2.png</Picture>
+                <Picture format="ARGB8565" id="4">F:\lcz\caiping_test\new_sdk\sdk\lv_charging_case\res-pack-tools\helper-tools\imbtools\images\150ms\wait_3.png</Picture>
+            </PictureList>
+            <CellList>
+                <Cell id="1">m26</Cell>
+                <Cell id="2">m27</Cell>
+            </CellList>
+        </Page>
+    </PageList>
+</Resbuilder>

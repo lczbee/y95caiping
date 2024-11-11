@@ -1,0 +1,5 @@
+input_folder_path放入需要转换的图片，支持gif、png、jpg
+
+双击run.exe,输入转换后的宽度和高度
+
+output_folder_path输出转换后的图片

@@ -1,0 +1,13 @@
+
+源参考图片目录在：\res-pack-tools\imb-rle-pack\imbtools\images
+
+【更换图片】
+
+1、在USER_IMAGE目录更换新图片，需要与源参考图保持同样的目录结构、图片名字、以及分辨率等。
+
+2、双击校验并生成图片.exe，会先自动将USER_IMAGE与源参考图片进行比对。
+
+校验不通过会提示相关错误，如分辨率错误、缺失图片或者多余图片，不会生成资源。
+校验通过后会重新生成资源，换图即成功。
+
+3、如果想恢复源图片资源，可以双击\res-pack-tools\imb-rle-pack\run.exe，注意USER_IMAGE会被重新覆盖，注意备份。

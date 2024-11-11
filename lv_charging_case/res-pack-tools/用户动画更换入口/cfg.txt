@@ -1,0 +1,7 @@
+BIG1 = "bmp"
+SMALL1 = "bmp"
+BIG2 = "bmp"
+SMALL2 = "bmp"
+CHAR = "png"
+POON = "bmp"
+POOFF = "bmp"

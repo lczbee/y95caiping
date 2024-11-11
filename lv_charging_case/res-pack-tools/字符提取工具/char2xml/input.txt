@@ -1,0 +1,1280 @@
+﻿Äratuskell
+Müra vähendamine
+Ekraani heledus
+sissetulev kõne
+Ekvalaiser
+standard
+Rokk
+Populaarsed
+Klassikaline
+Sir
+Kõrvaklappide leidmine
+Võtke kõrvaklapid ära
+Keele vahetamine
+lambivalgus
+Muusika mobiiltelefonidele
+SD muusika
+Olen minemas üle SD-muusikale, kas olete kindel, et katkestate telefoni Bluetoothi ühenduse?
+Kui kavatsete mobiilsele muusikale üle minna, kas olete kindel, et loote ühenduse mobiiltelefoni Bluetoothiga
+Otsing aegus
+Tühistama
+Kas oled kindel
+Failide edastamine
+Palun sisestage USB
+Squelch
+Squelch
+Seadistada
+Tagasi
+Salvestama
+Helitugevuse reguleerimine
+Lukusta ekraani taustapildid
+Teenetemärk täna
+Teenetemärk +1
+kordama
+Peata see
+Suu kinni
+Müra vähendamine
+Läbipaistev
+Alustada
+Avage see
+Pöidlad püsti
+Будилник
+Намаляване на шума
+Яркост на екрана
+Входящо повикване
+еквилайзер
+стандарт
+Скала
+популярен
+класически
+Господин
+Намери слушалките ми
+Свалете слушалките
+Превключване на езици
+лампа светлина
+Музика за мобилни телефони
+SD Музика
+На път съм да премина към SD музика, сигурни ли сте, че ще изключите Bluetooth на телефона си?
+Когато сте на път да преминете към мобилна музика, независимо дали сте сигурни, че ще се свържете с Bluetooth на мобилен телефон
+Времето за търсене изтече
+Отмени
+Сигурни ли сте
+Прехвърляне на файлове
+Поставете USB
+Скуелч
+Скуелч
+Слагам
+връщане
+Спасявам
+Регулиране на силата на звука
+Заключване на екрана тапети
+Заслугата днес
+Заслуга +1
+повтарям
+Стига с това
+Изключване
+Намаляване на шума
+Прозрачен
+Започвам
+Отвори го
+Вярвам, че някой ще се представи добре
+Budzik
+Redukcja szumów
+Jasność ekranu
+Połączenie przychodzące
+Korektora
+norma
+Skała
+popularny
+klasyczny
+Pan
+Znajdź moje słuchawki
+Zdejmij słuchawki
+Przełączanie języka
+światło lampy
+Muzyka na telefony komórkowe
+Muzyka SD
+Zaraz przełączę się na muzykę SD, czy na pewno odłączasz Bluetooth w telefonie?
+Kiedy masz zamiar przełączyć się na muzykę mobilną, czy na pewno łączysz się z telefonem komórkowym Bluetooth
+Upłynął limit czasu wyszukiwania
+Anuluj
+Czy na pewno
+Przesyłanie plików
+Podłącz USB
+Blokada szumów
+Blokada szumów
+Zakładać
+wrócić
+Zapisać
+Regulacja głośności
+Tapety ekranu blokady
+Zasłuż już dziś
+Zasługi +1
+powtórzyć
+Przestań
+Zamknięcie systemu
+Redukcja szumów
+Przejrzysty
+Zaczynać
+Otwórz to
+Kciuki w górę
+Vækkeur
+Støjreduktion
+Skærmens lysstyrke
+indgående opkald
+Equalizer
+norm
+Klippe
+populær
+klassisk
+Herre
+Find mine hovedtelefoner
+Tag hovedtelefonerne af
+Skift af sprog
+lampelys
+Musik til mobiltelefoner
+SD-musik
+Jeg er ved at skifte til SD-musik, er du sikker på at afbryde din telefons Bluetooth?
+Når du er ved at skifte til mobil musik, uanset om du er sikker på at oprette forbindelse til mobiltelefon Bluetooth
+Søgningen fik timeout
+Aflyse
+Er du sikker
+Filoverførsler
+Indsæt venligst en USB
+Squelch
+Squelch
+Rejse
+returbillet
+Spare
+Justering af lydstyrke
+Baggrunde på låseskærm
+Fortjeneste i dag
+Fortjeneste +1
+gentage
+Stop det
+Luk ned
+Støjreduktion
+Gennemsigtig
+Begynde
+Åbn den
+Vende tommelfingeren opad
+Ein wecker.
+Impulskontrolle.
+Helligkeit des bildschirms
+Eingehender anruf.
+Equalizer?
+Standard.
+Die ganze nacht
+Mode.
+Ein klassiker.
+Jazz.
+Such mein headset
+Nimm die kopfhörer ab.
+Und wechseln
+Lampe, äh
+Musik Von handy.
+SD musik.
+Und sind sie sicher, das iphone Von bluetooth zu SD zu wechseln?
+Wir wechseln auf handy-musik. Sind sicher, ob es bluetooth ist
+Such extrazeit.
+korrekt
+Könnten?
+Überweisung?
+Bitte blenden sie den usb-stick ein
+Lautlos.
+Es ist ruhig.
+Und einstellung.
+Abreise.
+Intakt?
+Lautstärke auf.
+Das schloss ist auf der splatte
+Morgen bekommen sie
+Talente +1
+Ich wiederhole, rettungsflug!
+Versuche zu
+Noch näher.
+Impulskontrolle.
+Brilliant.
+Und action!
+Aufmachen, los!
+Irgendwie geil.
+сигнализац
+шумоподавля
+Яркость экрана
+звонок
+уравнитель
+стандартн
+Рок-н-ролл
+популярн
+классическ
+сэр
+Найди мои наушники
+Сними наушники.
+Переключение языка
+свет
+Мобильная музыка.
+SD музыка
+ћ ы вот-вот переключаемс €на ƒ — ƒ.
+Скоро переключится на мобильную музыку, определит ли связь с bluetooth
+Время обыска
+отмен
+увер
+Передача файла
+Вставьте usb, пожалуйста
+Статическ шум
+Тихо.
+настройк
+вернут
+сохран
+Регулирование громкости
+Обои на экране замка
+Сегодня.
+Утилита +1
+повторя
+прекрат
+закр
+шумоподавля
+.
+нача
+откр
+лайк
+réveils
+Lutte contre le bruit
+Luminosité de l’écran
+l’appelant
+Un égaliseur
+Les critères
+rock
+La prévalence
+classique
+sir
+Trouver mon casque
+Enlevez vos écouteurs
+Changement de langue
+l’éclairage
+Musique sur mobile
+Musique en SD
+Bientôt passer à la musique SD, êtes-vous sûr de déconnecter le bluetooth du téléphone?
+Bientôt passer à la musique du téléphone, si vous êtes sûr de connecter le téléphone bluetooth
+Recherche a expiré
+La suppression des
+déterminer
+Transfert de fichiers
+Insérez l’usb
+Bruit statique
+Calme et bruit dans
+La mise en place
+Le retour
+La conservation
+Réglage du volume
+Écran de verrouillage wallpaper
+Mérite du jour
+Mérite +1
+Les doubles emplois
+cessation
+La fermeture
+Lutte contre le bruit
+perméabilité
+début
+ouvrir
+likes
+鬧鐘
+降噪
+屏幕亮度
+來電
+均衡器
+標準
+搖滾
+流行
+經典
+爵士
+找到我的耳機
+摘下耳機
+語言切換
+燈光
+手機音樂
+SD音樂
+即將切換到SD音樂，是否確定斷開手機藍牙？
+即將切換到手機音樂，是否確定連接手機藍牙
+搜索超時
+取消
+確定
+文件傳輸
+請插入usb
+靜噪
+靜噪中
+設置
+返回
+保存
+音量調節
+鎖屏壁紙
+今日功德
+功德+1
+重複
+停止
+關閉
+降噪
+通透
+開始
+打開
+點贊
+Alarm clock
+Pagbawas ng ingay
+Liwanag ng screen
+papasok na tawag
+equalizer
+pamantayan
+bato
+sikat na sikat na
+klasik
+Sir
+Hanapin ang aking mga headphone
+Alisin ang mga headphone
+Paglilipat ng wika
+ilaw ng lampara
+Musika para sa mga mobile phone
+Musika ng SD
+Malapit na po akong lumipat sa SD music, sigurado po ba na i disconnect ang Bluetooth ng phone nyo
+Kapag malapit ka nang lumipat sa mobile music, sigurado ka bang kumonekta sa mobile phone Bluetooth
+Ang paghahanap timed out
+Kanselahin
+Sigurado ka ba
+Mga paglilipat ng file
+Pakisingit na lang ng usb
+Squelch
+Squelch
+Mag-set up
+balik ka na
+Mag-ipon
+Pag aayos ng lakas ng tunog
+Mga wallpaper ng screen ng lock
+Merit ngayon
+Merito +1
+ulitin mo na lang
+Tigilan mo na ito
+Magsara
+Pagbawas ng ingay
+Transparent
+Magsimula
+Buksan mo na
+Mga hinlalaki sa paa
+Herätyskello
+Kohinanvaimennus
+Näytön kirkkaus
+Saapuva puhelu
+tasoitusmaali
+standardi
+Rock
+suosittu
+klassikko
+Herra
+Etsi kuulokkeeni
+Ota kuulokkeet pois
+Kielen vaihtaminen
+lampunvalo
+Musiikkia matkapuhelimiin
+SD-musiikki
+Olen vaihtamassa SD-musiikkiin, irrotatko varmasti puhelimesi Bluetoothin?
+Kun olet siirtymässä mobiilimusiikkiin, oletko varma, että muodostat yhteyden matkapuhelimen Bluetoothiin
+Haku aikakatkaistiin
+Perua
+Oletko varma
+Tiedostojen siirrot
+Aseta USB-muistitikku
+Musertaa
+Musertaa
+Pystyttää
+paluu
+Säästää
+Äänenvoimakkuuden säätö
+Lukitusnäytön taustakuvat
+Ansio tänään
+Ansio +1
+toistaa
+Lopeta tuo
+Sulkea
+Kohinanvaimennus
+Läpinäkyvä
+Alkaa
+Avaa se
+Peukut ylös
+자명종
+노이즈 감소
+화면 밝기
+전화
+이퀼라이저
+표준
+록
+유행
+경전
+재즈
+제 헤드폰을 찾아 주세요
+이어폰을 벗다
+언어 전환
+불빛이
+핸드폰 음악
+sd 음악
+sd 음악으로 전환했습니다. 블루투스를 꺼야 하나요?
+휴대 전화 음악으로 전환, 휴대 전화 블루투스 연결 여부
+검색 시간이 초과되었습니다
+취소
+확정
+파일 전송
+usb를 연결하십시오.
+조용하다
+조용중
+설정
+돌아가
+저장
+음량 조절
+화면 잠금 배경 그림
+오늘의 공덕
+공덕 +1
+중복
+중지
+닫기
+노이즈 감소
+투명
+시작
+열어
+좋아요
+wekkers
+geluidsreductie
+Helderheid van het scherm
+Inkomende oproepen
+equalizer
+normen
+omschrijving
+prevalentie
+klassiek
+bijlage
+Vind mijn hoofdtelefoon
+Verwijder uw hoofdtelefoon
+Taal wisselen
+verlichting
+Muziek voor mobiele telefoons
+Muziek van SD
+Staat op het punt om over te schakelen naar SD music. Is het zeker dat de verbinding van de mobiele telefoon bluetooth?
+Op het punt om over te schakelen naar mobiele muziek, of zeker om verbinding te maken met mobiele telefoon bluetooth
+Zoeken timeout
+vervallen
+omschrijving
+Overdracht van documenten
+Sluit de usb aan
+lawaai
+geluidsarm
+instellingen
+omschrijving
+behoud
+volumeregeling
+Lockscreen wallpaper
+Verdienste vandaag
+Verdienste +1
+herhaling
+stop
+gesloten
+geluidsreductie
+permeabiliteit
+inleiding
+omschrijving
+bijlage
+Budík
+Redukce šumu
+Jas obrazovky
+příchozí hovor
+ekvalizér
+standard
+Skála
+populární
+klasický
+Pane
+Najít moje sluchátka
+Sundejte si sluchátka
+Přepínání jazyků
+světlo lampy
+Hudba pro mobilní telefony
+SD hudba
+Chystám se přepnout na SD hudbu, jste si jisti, že odpojíte Bluetooth telefonu?
+Když se chystáte přepnout na mobilní hudbu, zda jste si jisti, že se připojíte k Bluetooth mobilního telefonu
+Vypršel časový limit hledání
+Zrušit
+Opravdu
+Přenosy souborů
+Vložte prosím USB
+Udupat
+Udupat
+Ustavit
+vrátit
+Uložit
+Nastavení hlasitosti
+Tapety na zamykací obrazovce
+Zásluhy dnes
+Za zásluhy +1
+opakovat
+Přestaň s tím
+Odprejskni
+Redukce šumu
+Transparentní
+Začít
+Otevři to
+Palec nahoru
+Budilica
+Smanjenje buke
+Svjetlina zaslona
+dolazni poziv
+ekvalizator
+standard
+Stijena
+popularan
+klasičan
+Gospodin
+Pronađi moje slušalice
+Skinite slušalice
+Promjena jezika
+svjetiljka
+Glazba za mobilne telefone
+SD glazba
+Upravo ću se prebaciti na SD glazbu, jeste li sigurni da ćete isključiti Bluetooth telefon na telefonu?
+Kada se spremate prijeći na mobilnu glazbu, jeste li sigurni da ćete se povezati s Bluetoothom mobilnog telefona
+Isteklo je vrijeme pretraživanja
+Otkazati
+Jesi siguran
+Prijenosi datoteka
+Umetnite USB
+Blato
+Blato
+Postaviti
+povratak
+Spasiti
+Prilagodba glasnoće
+Podloge zaključanog zaslona
+Zasluge danas
+Zasluge +1
+ponoviti
+Prestani
+Ugasi
+Smanjenje buke
+Proziran
+Početi
+Otvori ga
+Pohvaliti netkoga za dobro obavljeni posao
+Modinātājs
+Trokšņa samazināšana
+Ekrāna spilgtums
+Ienākošais zvans
+Ekvalaizera
+standarts
+Klints
+populārs
+Klasisko
+Sers
+Austiņu atrašana
+Noņemiet austiņas
+Valodas pārslēgšana
+lukturu gaisma
+Mūzika mobilajiem tālruņiem
+SD mūzika
+Es gatavojos pārslēgties uz SD mūziku, vai tiešām atvienosit tālruņa Bluetooth?
+Kad gatavojaties pārslēgties uz mobilo mūziku, vai esat pārliecināts, ka izveidojat savienojumu ar mobilo tālruni Bluetooth
+Meklēšanas taimauts beidzās
+Atcelt
+Vai esi pārliecināts
+Failu pārsūtīšana
+Lūdzu, ievietojiet USB
+Squelch
+Squelch
+Iestatīt
+atgriezt
+Glābt
+Skaļuma regulēšana
+Bloķēšanas ekrāna fona attēli
+Nopelns šodien
+Nopelni +1
+atkārtot
+Pārtrauc
+Aizvērt
+Trokšņa samazināšana
+Caurspīdīgs
+Sākt
+Atveriet to
+Īkšķi augšā
+Žadintuvas
+Triukšmo mažinimas
+Ekrano ryškumas
+Skambutį
+Ekvalaizeris
+standartas
+Uola
+Populiarus
+Klasikinis
+Ponas
+Rasti mano ausines
+Nuimkite ausines
+Kalbos perjungimas
+lempos šviesa
+Muzika mobiliesiems telefonams
+SD muzika
+Ketinu pereiti prie SD muzikos, ar tikrai atjungsite telefono "Bluetooth"?
+Kai ketinate pereiti prie mobiliosios muzikos, ar tikrai prisijungsite prie mobiliojo telefono "Bluetooth".
+Pasibaigė paieškos laikas
+Atšaukti
+Ar tikrai
+Failų perkėlimas
+Įdėkite USB
+Squelch
+Squelch
+Steigti
+grįžti
+Taupyti
+Garsumo reguliavimas
+Užrakinimo ekrano fono paveikslėliai
+Nuopelnai šiandien
+Nuopelnai +1
+pakartoti
+Baik
+Išjungti, išjunk
+Triukšmo mažinimas
+Skaidrus
+Pradėti
+Atidarykite jį
+Puiku
+Ceas cu alarma
+Reducerea zgomotului
+Luminozitatea ecranului
+Apel
+Egalizator
+standard
+Stâncă
+popular
+clasic
+Domn
+Găsește-mi căștile
+Scoateți căștile
+Comutarea limbii
+lampă
+Muzică pentru telefoane mobile
+Muzică SD
+Sunt pe cale să trec la muzică SD, sunteți sigur că veți deconecta Bluetooth-ul telefonului?
+Când sunteți pe cale să treceți la muzică mobilă, dacă sunteți sigur că vă conectați la telefonul mobil Bluetooth
+Căutarea a expirat
+Anula
+Eşti sigur
+Transferuri de fișiere
+Vă rugăm să introduceți un USB
+Squelch
+Squelch
+Configurat
+restitui
+Salva
+Reglarea volumului
+Imagini de fundal pentru ecranul de blocare
+Meritul astăzi
+Merit +1
+repeta
+Încetează
+Închide
+Reducerea zgomotului
+Transparent
+Începe
+Deschide-l
+Degetul mare în sus
+Alarmklokke
+Støyreduksjon
+Skjermlysstyrke
+Innkommende anrop
+Equalizer
+standard
+Stein
+populær
+klassisk
+Herre
+Finn hodetelefonene mine
+Ta av hodetelefonene
+Språkbytte
+lampelys
+Musikk til mobiltelefoner
+SD-musikk
+Jeg er i ferd med å bytte til SD-musikk, er du sikker på å koble fra telefonens Bluetooth?
+Når du er i ferd med å bytte til mobil musikk, om du er sikker på å koble til mobiltelefon Bluetooth
+Søket ble tidsavbrutt
+Annullere
+Er du sikker
+Overføring av filer
+Sett inn en USB
+Knirke
+Knirke
+Definere
+retur
+Lagre
+Justering av volum
+Bakgrunnsbilder på låseskjerm
+Fortjeneste i dag
+Fortjeneste +1
+gjenta
+Hold opp
+Steng
+Støyreduksjon
+Gjennomsiktig
+Begynne
+Åpne den
+Tommel opp
+Despertador!
+Redução de ruído
+Brilho da tela
+Ligou.
+O equalizador
+padrão
+rock
+pop
+clássico
+sir
+Encontre meus fones de ouvido
+Remova os fones de ouvido
+Mudança de idioma
+As luzes.
+Música para celular
+Música em SD
+Em breve mudar para música SD, tem certeza de desconectar o bluetooth do telefone?
+Em breve mudar para a música do telefone, se você tem certeza de conectar o telefone bluetooth
+A pesquisa expira
+cancelar
+A certeza
+Transferência de arquivos
+Insira o usb
+ruído
+Silencioso e ruidoso
+As configurações
+regresso
+conservação
+Ajuste do volume
+Tela de bloqueio wallpaper
+Mérito do dia
+Mérito +1
+Repito:
+parar
+encerramento
+Redução de ruído
+transparência
+início
+abrir
+maquetes
+目覚まし時計
+ノイズ低減です
+画面の明るさです
+お電話です
+イコライザです
+基準です
+ロック
+流行です
+古典です
+ジャズです
+イヤホンを見つけました
+イヤホンを外します
+言葉の切り替えです
+ライトです
+携帯電話の音楽です
+SD音楽です
+まもなくSD音楽に切り替えて、携帯電話のブルートゥースを切ることを確定しますか?
+携帯電話の音楽に切り替えます。携帯電話への接続を確認しますか? bluetooth
+検索タイムアウトです
+取り消します
+確定です
+ファイル転送です
+usbをお願いします。
+静かなノイズです
+静かな騒音の中です
+設置します
+戻ります
+保存します
+音量調節です
+壁紙をロックします
+今日の功徳です
+功徳+1です
+繰り返します
+停止します
+閉鎖します
+ノイズ低減です
+透き通っています
+始めます
+開けます
+いいですね
+Väckarklocka
+Brusreducering
+Skärmens ljusstyrka
+Inkommande samtal
+Equalizer
+standard
+Klippa
+populär
+klassisk
+Herrn
+Hitta mina hörlurar
+Ta av hörlurarna
+Byte av språk
+lampa ljus
+Musik för mobiltelefoner
+SD-musik
+Jag är på väg att byta till SD-musik, är du säker på att koppla bort telefonens Bluetooth?
+När du är på väg att byta till mobil musik, om du är säker på att ansluta till mobiltelefonens Bluetooth
+Tidsgränsen för sökningen avbröts
+Annullera
+Är du säker
+Filöverföringar
+Sätt i en USB
+Krossa
+Krossa
+Förbereda
+återvända
+Spara
+Justering av volymen
+Bakgrundsbilder på låsskärmen
+Meritera idag
+Meriter +1
+upprepa
+Sluta
+Stänga ner
+Brusreducering
+Genomskinlig
+Börja
+Öppna den
+Tummen upp
+Budík
+Redukcia hluku
+Jas obrazovky
+Prichádzajúci hovor
+Ekvalizér
+štandard
+Skala
+populárny
+klasický
+Pane
+Lokalizácia slúchadiel
+Zložte si slúchadlá
+Prepínanie jazykov
+svetlo svetelného zdroja
+Hudba pre mobilné telefóny
+SD Hudba
+Chystám sa prepnúť na hudbu SD, ste si istí, že odpojíte Bluetooth telefónu?
+Keď sa chystáte prepnúť na mobilnú hudbu, či sa určite pripojíte k mobilnému telefónu Bluetooth
+Časový limit hľadania vypršal
+Zrušiť
+Si si istý
+Prenosy súborov
+Vložte USB
+Čvachtať
+Čvachtať
+Pripraviť
+vrátiť
+Zachrániť
+Nastavenie hlasitosti
+tapety obrazovky uzamknutia
+Zásluhy dnes
+Zásluhy +1
+opakovať
+Prestaň
+Vypnúť
+Redukcia hluku
+Priehľadný
+Začať
+Otvorte ho
+Palec hore
+Budilka
+Zmanjšanje hrupa
+Svetlost zaslona
+Dohodni klic
+Izenačevalnik
+standard
+Skala
+priljubljen
+klasičen
+Gospod
+Iskanje mojih slušalk
+Snemite slušalke
+Preklapljanje med jeziki
+svetilka
+Glasba za mobilne telefone
+SD glasba
+Kmalu bom preklopil na glasbo SD, ali boste zagotovo prekinili Bluetooth telefona?
+Ko nameravate preklopiti na glasbo iz mobilnih naprav, ali se boste zagotovo povezali z mobilnim telefonom Bluetooth
+Časovna omejitev iskanja je potekla
+Odpovedati
+Si prepričan
+Prenosi datotek
+Prosimo, vstavite USB
+Squelch
+Squelch
+Pripraviti
+vrnitev
+Shraniti
+Prilagoditev glasnosti
+Ozadja na zaklenjenem zaslonu
+Zasluge danes
+Zasluge +1
+ponoviti
+Nehaj
+Ugasni
+Zmanjšanje hrupa
+Prosojen
+Začeti
+Odprite ga
+Palec gor
+Çalar saat
+Gürültü azaltma
+Ekran parlaklığı
+Gelen Çağrı
+Ekolayzır
+standart
+Rock
+popüler
+Klasik
+Efendim
+Kulaklığımı bul
+Kulaklıkları çıkarın
+Dil değiştirme
+lamba ışığı
+Cep telefonları için müzik
+SD Müzik
+SD müziğe geçmek üzereyim, telefonunuzun Bluetooth bağlantısını keseceğinizden emin misiniz?
+Mobil müziğe geçmek üzereyken, cep telefonu Bluetooth'una bağlandığınızdan emin olup olmadığınızı
+Arama zaman aşımına uğradı
+İptal
+Emin misiniz
+Dosya transferleri
+Lütfen bir USB takın
+Susturma
+Susturma
+Hazırlamak
+dönmek
+Kurtarmak
+Ses ayarı
+Kilit ekranı duvar kağıtları
+Bugün liyakat
+Liyakat +1
+yinelemek
+Kes şunu
+Kapat
+Gürültü azaltma
+Saydam
+Başlamak
+Aç onu
+Çok iyi
+Будильник
+Зменшення шуму
+Яскравість екрану
+вхідний дзвінок
+Еквалайзер
+стандарт
+Скеля
+Популярні
+Класичний
+Пан
+Пошук навушників
+Зніміть навушники
+Перемикання мови
+Світло лампи
+Музика для мобільних телефонів
+Музика SD
+Я збираюся перейти на музику SD, ви впевнені, що відключите Bluetooth свого телефону?
+Коли ви збираєтеся перейти на мобільну музику, чи впевнені ви, що підключаєтеся до мобільного телефону Bluetooth
+Час очікування пошуку минув
+Скасувати
+Ти впевнений
+Передача файлів
+Будь ласка, вставте USB
+Придушення шуму
+Придушення шуму
+Створити
+Повернутися
+Рятувати
+Регулювання гучності
+Шпалери на екран блокування
+Заслуги сьогодні
+Заслуги +1
+повторити
+Припини
+Вимикати
+Зменшення шуму
+Прозорі
+Починатися
+Відкрийте його
+Великий палець вгору
+La alarma
+ruido
+Brillo de pantalla
+Llamadas de
+ecualizador
+Las normas
+rock
+La epidemia
+clásico
+sir
+Encuentra mis auriculares
+Quítate los auriculares
+Cambio de idioma
+luces
+Música para móviles
+Música en SD
+A punto de cambiar a música SD, ¿Está seguro de desconectar el bluetooth del teléfono?
+A punto de cambiar a la música del teléfono, si está seguro de conectar el teléfono bluetooth
+Tiempo de búsqueda expirado
+cancelación
+determinar
+Transferencia de archivos
+Inserte el usb
+En medio de la señal-ruido
+Silencio y ruido
+La configuración
+regreso
+guardar
+Ajuste de volumen
+Pantalla de bloqueo wallpaper
+Mérito del día
+Mérito +1
+repetir
+parar
+cierre
+ruido
+TongTou
+a
+abre
+Punto de zambia
+Reloxo de alarma
+Redución de ruído
+Brillo da pantalla
+Chamada entrante
+Ecualizador
+Estándar
+Rock
+Popular
+Clásicos
+Sir
+Atopa os meus auriculares
+Quita os auriculares
+Cambio de idioma
+Luz da lámpada
+Música para teléfonos móbiles
+SD Música
+Estou a piques de cambiar a música SD, estás seguro de desconectar o Bluetooth do teu teléfono?
+Cando está a piques de mudar á música móbil, se está seguro de conectarse ao teléfono móbil Bluetooth
+A procura cronometrada
+Cancelación
+Estás seguro de que
+Transferencias de ficheiros
+Inserir un USB
+Squelch
+Squelch
+Configuración
+Devolucións
+Gardar
+Axuste de volume
+Fondos de pantalla de bloqueo
+Mérito hoxe
+Méritos +1
+Repetir
+Detéñao
+Pechar
+Redución de ruído
+Transparentes
+Comezo
+Ábreo
+Polgares arriba
+Ébresztőóra
+Zajcsökkentés
+A képernyő fényereje
+bejövő hívás
+egyenlítő gól
+szabvány
+Szikla
+népszerű
+klasszikus
+Úr
+Fejhallgató keresése
+Vegye le a fejhallgatót
+Nyelvváltás
+lámpafény
+Zene mobiltelefonokra
+SD zene
+SD-zenére készülök váltani, biztosan leválasztja a telefon Bluetooth-ját?
+Amikor mobil zenére készül váltani, függetlenül attól, hogy biztosan csatlakozik-e a mobiltelefon Bluetooth-hoz
+A keresés túllépte az időkorlátot
+Érvénytelenít
+Biztos vagy benne
+Fájlátvitel
+Kérjük, helyezzen be egy USB-t
+Zajzár
+Zajzár
+Felállít
+visszatérés
+Megment
+Hangerő beállítása
+Zárolási képernyő háttérképei
+Érdem ma
+Érdem +1
+ismétel
+Hagyd abba
+Leállítás
+Zajcsökkentés
+Átlátszó
+Kezdődik
+Nyissa meg
+Remek
+sveglia
+Riduzione del rumore
+Luminosità dello schermo
+chiamate
+Meccanismi di perequazione
+standard
+rock
+pop
+classica
+sir
+Trovi le mie cuffie
+Togliete le cuffie
+Cambio di lingua
+luci
+Musica dai telefoni cellulari
+Musica SD
+Sta per passare alla musica SD, è sicuro che l’bluetooth sia stato tagliato dal cellulare?
+Sta per passare alla musica da cellulare, è sicuro o no che l’bluoth sia collegato al cellulare
+Ricerca extranet
+soppressione
+definire
+Trasmissione di documenti
+Per favore, inserire il usb
+Radiofaro dell’udito
+Rumore statico
+regolazione
+ritorno
+conservazione
+Regolazione del volume
+Carta da parati a schermo chiuso
+Rt industria delle comunicazioni (3226)
+Conseguimento +1
+ripetere
+Smettere di
+chiusura
+Riduzione del rumore
+prova
+inizio
+aprire
+Punto like
+alarm
+kebisingan
+Kecerahan layar
+Panggilan masuk
+equalizer
+standar
+Rock 'n' roll
+Pop …
+klasik
+sir
+Cari headphone saya
+Lepaskan headphone-mu.
+Penggantian bahasa
+cahaya
+Musik ponsel
+SD musik
+Akan beralih ke SD musik, apakah anda yakin memutuskan telepon seluler bluetooth?
+Hendak beralih ke musik ponsel, apakah terhubung dengan bluetooth
+Waktu pencarian
+batalkan
+yakin
+Transfer berkas
+Silahkan masukkan usb
+Jing.
+Masih diam
+pengaturan
+kembali
+simpan
+Penyesuaian volume
+Wallpaper layar kunci
+Jasa hari ini
+Jasa plus 1
+ulangi
+berhenti
+menutup
+kebisingan
+jernih
+mulai
+buka
+Jam.
+Alarm clock
+Noise reduction
+Screen brightness
+Your telegram
+equalizer
+Standard
+Rock and roll
+fashionable
+sutra
+jazz
+Find my headphones
+Take off your headphones
+Language switching
+lamplight
+Mobile music
+SD Music
+About to switch to SD music, are you sure to disconnect your phone's Bluetooth?
+About to switch to mobile phone music, are you sure to connect the mobile phone Bluetooth
+Search timeout
+Cancel
+OK
+File transfer
+Please insert usb
+squelch
+squelching
+Settings
+Back
+save
+Volume adjustment
+Lock screen wallpaper
+Merit of the day
+Merit +1
+repeat
+stop
+Off
+Noise reduction
+transparent
+initiate
+unpack
+give a like
+闹钟
+降噪
+屏幕亮度
+来电
+均衡器
+标准
+摇滚
+流行
+经典
+爵士
+找到我的耳机
+摘下耳机
+语言切换
+灯光
+手机音乐
+SD音乐
+即将切换到SD音乐，是否确定断开手机蓝牙？
+即将切换到手机音乐，是否确定连接手机蓝牙
+搜索超时
+取消
+确定
+文件传输
+请插入usb
+静噪
+静噪中
+设置
+返回
+保存
+音量调节
+锁屏壁纸
+今日功德
+功德+1
+重复
+停止
+关闭
+降噪
+通透
+开始
+打开
+点赞

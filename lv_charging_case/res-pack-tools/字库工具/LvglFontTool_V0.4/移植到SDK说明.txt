@@ -1,0 +1,36 @@
+外部字体移植说明（因需要保持文件数据连续暂不支持OTA单独升级）
+
+1、根据截图配置字库工具，添加自己的字体并生成myFont.c，myFont.bin文件。
+
+2、把 myFont.c 复制到 sdk\lv_charging_case\lv_frame\jlres 并双击 \sdk\cpu\br28\tools\download\watch\makefile_maker.bat 更新makefile
+
+3、把 myFont.bin 复制到 sdk\cpu\br28\tools\ui_resource
+
+4、sdk\cpu\br28\tools\download\watch\download.bat 里面的 ..\..\fat_comm.exe 指令添加字库文件 ...... -filelist myFont.bin ......
+
+(例如：..\..\fat_comm.exe -pad-backup2 -force-align-fat -out new_res.bin -image-size 16 -filelist myFont.bin ui -remove-empty -remove-bpb -mark-bad-after 0xfe0000 -key %CHIPKEY% -address 0)
+
+5、myFont.c的 __user_font_getdata()函数替换为以下代码
+
+#include "res/resfile.h"
+static uint8_t *__user_font_getdata(int offset, int size){
+    static u32  file_addr=0;
+    if(!file_addr){
+        char * path = "storage/virfat_flash/C/myFont.bin";
+        struct flash_file_info ui_resfile_info;
+        int ret = ui_res_flash_info_get(&ui_resfile_info, path, "res");
+        if(!ret){
+            file_addr = ui_resfile_info.tab[0] + ui_resfile_info.offset;
+            ui_res_flash_info_free(&ui_resfile_info, "res");    
+            printf("打开外部字库 %s 成功 %x", path, file_addr);   
+            put_buf(file_addr, 64);     
+        } else {
+            printf("打开外部字库 %s 失败", path);   
+            file_addr = 0;
+            return 0;
+        }
+    }
+    if(offset<0)offset=0;
+    int addr = file_addr + offset;
+    return addr;
+}
